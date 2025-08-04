@@ -1,0 +1,308 @@
+[
+  {
+    "id": "1",
+    "event_type": "login",
+    "user_id": "db95ccce-7c6b-44a0-a9fd-e830babfc995",
+    "data": {
+      "login_method": "email"
+    },
+    "timestamp": "2025-07-29T09:40:56.374577",
+    "created_at": "2025-07-29T09:40:56.376668"
+  },
+  {
+    "id": "2",
+    "event_type": "file_upload",
+    "user_id": "db95ccce-7c6b-44a0-a9fd-e830babfc995",
+    "data": {
+      "file_name": "05-30-WI-PR-05 WI for Coining.pdf",
+      "file_type": "pdf",
+      "file_size": 195734
+    },
+    "timestamp": "2025-07-29T09:43:19.510238",
+    "created_at": "2025-07-29T09:43:19.510265"
+  },
+  {
+    "id": "3",
+    "event_type": "file_upload",
+    "user_id": "db95ccce-7c6b-44a0-a9fd-e830babfc995",
+    "data": {
+      "file_name": "06-30-WI-PR-06 WI for for 2T & 3 T  Hammer CDF- English.pdf",
+      "file_type": "pdf",
+      "file_size": 177995
+    },
+    "timestamp": "2025-07-29T09:43:21.658283",
+    "created_at": "2025-07-29T09:43:21.658304"
+  },
+  {
+    "id": "4",
+    "event_type": "file_upload",
+    "user_id": "db95ccce-7c6b-44a0-a9fd-e830babfc995",
+    "data": {
+      "file_name": "07-30-WI-PR-07 Work Instruction for 1T Close die Belt drop hammer.- English.pdf",
+      "file_type": "pdf",
+      "file_size": 175460
+    },
+    "timestamp": "2025-07-29T09:43:23.811927",
+    "created_at": "2025-07-29T09:43:23.811948"
+  },
+  {
+    "id": "5",
+    "event_type": "file_upload",
+    "user_id": "db95ccce-7c6b-44a0-a9fd-e830babfc995",
+    "data": {
+      "file_name": "08-WI-PR-08 Work Instruction for Operating Trim Press. English.pdf",
+      "file_type": "pdf",
+      "file_size": 304699
+    },
+    "timestamp": "2025-07-29T09:43:25.977911",
+    "created_at": "2025-07-29T09:43:25.977922"
+  },
+  {
+    "id": "6",
+    "event_type": "file_upload",
+    "user_id": "db95ccce-7c6b-44a0-a9fd-e830babfc995",
+    "data": {
+      "file_name": "05-30-WI-PR-05 WI for Coining.pdf",
+      "file_type": "pdf",
+      "file_size": 195734
+    },
+    "timestamp": "2025-07-29T09:45:07.479332",
+    "created_at": "2025-07-29T09:45:07.479372"
+  },
+  {
+    "id": "7",
+    "event_type": "file_upload",
+    "user_id": "db95ccce-7c6b-44a0-a9fd-e830babfc995",
+    "data": {
+      "file_name": "06-30-WI-PR-06 WI for for 2T & 3 T  Hammer CDF- English.pdf",
+      "file_type": "pdf",
+      "file_size": 177995
+    },
+    "timestamp": "2025-07-29T09:45:09.620219",
+    "created_at": "2025-07-29T09:45:09.620243"
+  },
+  {
+    "id": "8",
+    "event_type": "file_upload",
+    "user_id": "db95ccce-7c6b-44a0-a9fd-e830babfc995",
+    "data": {
+      "file_name": "07-30-WI-PR-07 Work Instruction for 1T Close die Belt drop hammer.- English.pdf",
+      "file_type": "pdf",
+      "file_size": 175460
+    },
+    "timestamp": "2025-07-29T09:45:11.704739",
+    "created_at": "2025-07-29T09:45:11.704748"
+  },
+  {
+    "id": "9",
+    "event_type": "file_upload",
+    "user_id": "db95ccce-7c6b-44a0-a9fd-e830babfc995",
+    "data": {
+      "file_name": "08-WI-PR-08 Work Instruction for Operating Trim Press. English.pdf",
+      "file_type": "pdf",
+      "file_size": 304699
+    },
+    "timestamp": "2025-07-29T09:45:13.806017",
+    "created_at": "2025-07-29T09:45:13.806050"
+  },
+  {
+    "id": "10",
+    "event_type": "query",
+    "user_id": "db95ccce-7c6b-44a0-a9fd-e830babfc995",
+    "data": {
+      "question": "what is the 5th step for 2T & 3T hammer ",
+      "has_context": true,
+      "response_time": 0.042916059494018555
+    },
+    "timestamp": "2025-07-29T09:45:18.041648",
+    "created_at": "2025-07-29T09:45:18.041658"
+  },
+  {
+    "id": "11",
+    "event_type": "file_upload",
+    "user_id": "db95ccce-7c6b-44a0-a9fd-e830babfc995",
+    "data": {
+      "file_name": "05-30-WI-PR-05 WI for Coining.pdf",
+      "file_type": "pdf",
+      "file_size": 195734
+    },
+    "timestamp": "2025-07-29T09:45:35.279292",
+    "created_at": "2025-07-29T09:45:35.279316"
+  },
+  {
+    "id": "12",
+    "event_type": "file_upload",
+    "user_id": "db95ccce-7c6b-44a0-a9fd-e830babfc995",
+    "data": {
+      "file_name": "06-30-WI-PR-06 WI for for 2T & 3 T  Hammer CDF- English.pdf",
+      "file_type": "pdf",
+      "file_size": 177995
+    },
+    "timestamp": "2025-07-29T09:45:37.377374",
+    "created_at": "2025-07-29T09:45:37.377384"
+  },
+  {
+    "id": "13",
+    "event_type": "file_upload",
+    "user_id": "db95ccce-7c6b-44a0-a9fd-e830babfc995",
+    "data": {
+      "file_name": "07-30-WI-PR-07 Work Instruction for 1T Close die Belt drop hammer.- English.pdf",
+      "file_type": "pdf",
+      "file_size": 175460
+    },
+    "timestamp": "2025-07-29T09:45:39.487714",
+    "created_at": "2025-07-29T09:45:39.487743"
+  },
+  {
+    "id": "14",
+    "event_type": "file_upload",
+    "user_id": "db95ccce-7c6b-44a0-a9fd-e830babfc995",
+    "data": {
+      "file_name": "08-WI-PR-08 Work Instruction for Operating Trim Press. English.pdf",
+      "file_type": "pdf",
+      "file_size": 304699
+    },
+    "timestamp": "2025-07-29T09:45:41.591561",
+    "created_at": "2025-07-29T09:45:41.591584"
+  },
+  {
+    "id": "15",
+    "event_type": "file_upload",
+    "user_id": "db95ccce-7c6b-44a0-a9fd-e830babfc995",
+    "data": {
+      "file_name": "05-30-WI-PR-05 WI for Coining.pdf",
+      "file_type": "pdf",
+      "file_size": 195734
+    },
+    "timestamp": "2025-07-29T09:45:59.487227",
+    "created_at": "2025-07-29T09:45:59.487241"
+  },
+  {
+    "id": "16",
+    "event_type": "file_upload",
+    "user_id": "db95ccce-7c6b-44a0-a9fd-e830babfc995",
+    "data": {
+      "file_name": "06-30-WI-PR-06 WI for for 2T & 3 T  Hammer CDF- English.pdf",
+      "file_type": "pdf",
+      "file_size": 177995
+    },
+    "timestamp": "2025-07-29T09:46:01.661619",
+    "created_at": "2025-07-29T09:46:01.661648"
+  },
+  {
+    "id": "17",
+    "event_type": "file_upload",
+    "user_id": "db95ccce-7c6b-44a0-a9fd-e830babfc995",
+    "data": {
+      "file_name": "07-30-WI-PR-07 Work Instruction for 1T Close die Belt drop hammer.- English.pdf",
+      "file_type": "pdf",
+      "file_size": 175460
+    },
+    "timestamp": "2025-07-29T09:46:03.802088",
+    "created_at": "2025-07-29T09:46:03.802098"
+  },
+  {
+    "id": "18",
+    "event_type": "file_upload",
+    "user_id": "db95ccce-7c6b-44a0-a9fd-e830babfc995",
+    "data": {
+      "file_name": "08-WI-PR-08 Work Instruction for Operating Trim Press. English.pdf",
+      "file_type": "pdf",
+      "file_size": 304699
+    },
+    "timestamp": "2025-07-29T09:46:05.951206",
+    "created_at": "2025-07-29T09:46:05.951224"
+  },
+  {
+    "id": "19",
+    "event_type": "login",
+    "user_id": "db95ccce-7c6b-44a0-a9fd-e830babfc995",
+    "data": {
+      "login_method": "email"
+    },
+    "timestamp": "2025-07-29T09:48:32.398208",
+    "created_at": "2025-07-29T09:48:32.398222"
+  },
+  {
+    "id": "20",
+    "event_type": "file_upload",
+    "user_id": "db95ccce-7c6b-44a0-a9fd-e830babfc995",
+    "data": {
+      "file_name": "06-30-WI-PR-06 WI for for 2T & 3 T  Hammer CDF- English.pdf",
+      "file_type": "pdf",
+      "file_size": 177995
+    },
+    "timestamp": "2025-07-29T09:48:50.554839",
+    "created_at": "2025-07-29T09:48:50.554847"
+  },
+  {
+    "id": "21",
+    "event_type": "file_upload",
+    "user_id": "db95ccce-7c6b-44a0-a9fd-e830babfc995",
+    "data": {
+      "file_name": "06-30-WI-PR-06 WI for for 2T & 3 T  Hammer CDF- English.pdf",
+      "file_type": "pdf",
+      "file_size": 177995
+    },
+    "timestamp": "2025-07-29T09:50:08.015144",
+    "created_at": "2025-07-29T09:50:08.018519"
+  },
+  {
+    "id": "22",
+    "event_type": "query",
+    "user_id": "db95ccce-7c6b-44a0-a9fd-e830babfc995",
+    "data": {
+      "question": "what is the 1st step of work instruction mention for 2T & 3T hammer",
+      "has_context": true,
+      "response_time": 0.04245162010192871
+    },
+    "timestamp": "2025-07-29T09:50:12.201908",
+    "created_at": "2025-07-29T09:50:12.201932"
+  },
+  {
+    "id": "23",
+    "event_type": "login",
+    "user_id": "db95ccce-7c6b-44a0-a9fd-e830babfc995",
+    "data": {
+      "login_method": "email"
+    },
+    "timestamp": "2025-07-29T09:57:12.630341",
+    "created_at": "2025-07-29T09:57:12.630658"
+  },
+  {
+    "id": "24",
+    "event_type": "file_upload",
+    "user_id": "db95ccce-7c6b-44a0-a9fd-e830babfc995",
+    "data": {
+      "file_name": "06-30-WI-PR-06 WI for for 2T & 3 T  Hammer CDF- English.pdf",
+      "file_type": "pdf",
+      "file_size": 177995
+    },
+    "timestamp": "2025-07-29T09:57:25.903560",
+    "created_at": "2025-07-29T09:57:25.903570"
+  },
+  {
+    "id": "25",
+    "event_type": "file_upload",
+    "user_id": "db95ccce-7c6b-44a0-a9fd-e830babfc995",
+    "data": {
+      "file_name": "06-30-WI-PR-06 WI for for 2T & 3 T  Hammer CDF- English.pdf",
+      "file_type": "pdf",
+      "file_size": 177995
+    },
+    "timestamp": "2025-07-29T09:58:01.668076",
+    "created_at": "2025-07-29T09:58:01.668142"
+  },
+  {
+    "id": "26",
+    "event_type": "query",
+    "user_id": "db95ccce-7c6b-44a0-a9fd-e830babfc995",
+    "data": {
+      "question": "what is the 9th step mention in the instruction",
+      "has_context": true,
+      "response_time": 0.04014420509338379
+    },
+    "timestamp": "2025-07-29T09:58:05.858190",
+    "created_at": "2025-07-29T09:58:05.858199"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "windy-fortress-467304-p1",
+  "private_key_id": "0f855c71e0a78d2d5323b476e41e85c9d9703184",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCTnKuNOM/j6RcL\nxnP9qxqta4hceQ5A+xw3q0WwuKTz+FjLphZn8v0IsajAp1o+wYaVqpZFCoxErNs0\nVonKnZHneqTJlD1Ezggm45CxanLLprgjV1reDf8vC/abHX0qvP/5UVRjLjwGGev9\nkO/HV77izZmiJigqa9VXo3M0ZFuroNlK8Svj34Bz5Mr/g4SBJ5nNK5Qs3DCUf7pH\n61uMo3DDs7ZcFW3K80YkbN/BWl0S+K5Kh/tDoIMal1fA/bgaGbEieXE++Gwx7VPb\nvW7sL5RImp6ZwVt/7Uwoww6WPiGyRYj05glLjNyy08F9o9QD/Lhmb5tnET5rGcjM\nwq0qfoojAgMBAAECggEALUJ/7UyqnYCGMvOV9AUHKH5MsMHjZ3Q3OjB3LVDoLvAK\nVeLmgtfj0ssaaXvGtXBEMla8PY4W5SW1Do6sMCZxKq8VoMMlqBeeM0JaRrPTX/MO\nCbQKpgRXppa99eCsVLLfr5PK0qBGAj7nd3d9tbsHSeZtgWS+swceQoFY3Qsaenxf\nNhyhixL9jOlmArzol+Wix8uJfForgcxs/mU5ANayRP21bxyJ/u0YZIKiPqfPH1dB\nEJ2zWmZKG8v5Ncck6rrFh8TAMVyv4XjO7H6X51lv0+C8StMGt1tt+kzxJ502uN/9\nFaqHuk8knv0ze+qYsy20zwGPldZn4MWel1QOsaastQKBgQDQPcvFcAYqmfR7YdjU\nYtc+yq23x2ImHIlZ07xGi34o/7JL3xvXTLLrG0Ir11SHxNZgPr0OGUqt1lLb/sFi\nPYEFPSsiuzs8p1IlcMlNdz1hCacIEyEbUIZUpgsJsyqqKYpILAi9AzvfevkPQq06\nSLtoIhER9TR+a3p0fZo7THzdnwKBgQC1dzg/LFCFYN99NBsTBR41maU3i3O8iiSZ\ndDnKiH2iyGUJK826zvT2uKNe98MRFbekXcN5WlfqejNPYf6j8hEhHtq4DLmsPJKN\nKo2/oOtoWQdyelP4ewyf5wU0Kek5TI1j6aR61FQV9qxf53pzG3Rf9bWCp99xFFzh\nWIua0rH8/QKBgQCIBIUwDk8IzozBdpUBjRoZGpvDmclDKYqRkNq+nWincPTN2ApA\nZAnNxX1AU6MUF38LWI92QRDlYUO4DLvV5mR6voyJYBB+OrBOYlAqeEMwOfTPMmeC\nhuNnMRmumUe54+492/1NMGqQO6uoyx2JH27Bwtaxix9hn+RZaJ0wNHKu8wKBgQCI\nNqeH9BG1LNRVvUkda9gTT/POz+Tef6udbLr8ppv4FwiQa8sQEM2cbVhkrwJDztN8\nk81pSEF6BqSBUAO+uLPW8rwnL5YoDYfMY0bnszlBqKKIcf6aJHODi/xB/bvNgQMZ\nHoaSlNNRcUpO6wjlYpRme5/2JWD6FtjpZnfUjZeBWQKBgCgdYfwzfPUSneB2dRru\nOxBf6nwGFd1OaSd2Y+iNopdN3FUg37CaP3TVNl3cwEq+pqBRuJKIG+WP4ajnflIL\n/0AqZnK2UzMqIdNaZSwgQHFIMo9GPVv79lLwHj+TN90O5VL2wXwB6Mv7n+Cnx3S5\nfM5E+lmvMCDMfCozb6+uvH2y\n-----END PRIVATE KEY-----\n",
+  "client_email": "vision-api-access@windy-fortress-467304-p1.iam.gserviceaccount.com",
+  "client_id": "110354324162728697295",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vision-api-access%40windy-fortress-467304-p1.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

@@ -1,0 +1,59 @@
+# Cursor AI ignore patterns
+# By default, Cursor ignores .env files for security
+# To enable AI features for .env, we explicitly allow it
+
+# Allow .env files
+!.env
+!.frontend/__pycache__/analytics_dashboard.cpython-313.pyc
+!.S:\Interns\CompanyAI Chatbot\backend\__pycache__\__init__.cpython-313.pyc
+
+# Explicitly allow important application files
+!backend/
+!frontend/
+!*.py
+!*.md# Allow .env files
+!.env
+!frontend/__pycache__/analytics_dashboard.cpython-313.pyc
+!backend/__pycache__/__init__.cpython-313.pyc
+
+# Explicitly allow important application files
+!backend/
+!frontend/
+!*.py
+!*.md
+!*.txt
+!*.json
+!*.yaml
+!*.yml
+
+# Only ignore truly unnecessary files
+*.log
+.DS_Store
+venv/
+node_modules/
+.git/
+*.tmp
+*.temp
+
+# Explicitly ignore compiled Python cache files
+**/__pycache__/
+**/*.pyc
+
+!*.txt
+!*.json
+!*.yaml
+!*.yml
+
+# Only ignore truly unnecessary files
+*.log
+.DS_Store
+venv/
+node_modules/
+.git/
+*.tmp
+*.temp
+
+# Explicitly ignore compiled Python cache files
+**/__pycache__/
+**/*.pyc 
+
